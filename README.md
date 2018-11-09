@@ -1,5 +1,5 @@
 # CryptoLite
-Crypto Lite is a Console and GUI application to encrypt or decrypt File/Message with (AES , RSA , DES 3)
+Crypto Lite is a Console and GUI application writing on python to encrypt or decrypt File/Message with (AES , RSA , DES 3)
 
 ## CryptoLite's dependencies
 * 1.- pycrypto
