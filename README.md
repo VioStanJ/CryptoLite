@@ -5,6 +5,7 @@ Crypto Lite is a Console and GUI application to encrypt or decrypt File/Message 
 * 1.- pycrypto
     https://pypi.org/project/pycrypto/
 * 2.- tkinter
+    https://docs.python.org/3/library/tkinter.html
 
 # Setup
 Go to pycrypto/Setup
